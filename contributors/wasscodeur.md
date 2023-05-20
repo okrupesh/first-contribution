@@ -2,4 +2,4 @@
 
 [Twitter](https://twitter.com/WassCodeur) | [GitHub](https://github.com/WassCideur) | [LinkedIn](https://linkedin.com/in/wasscodeur)
 
-**Description:** Hello!! I'm Wachiou BOURAIMA aka WassCodeur a Junior web developer and software engineering student at African Leadership X || Microsoft Learn Student and DSN Ambassador.
+**Description:** Hello!! I'm Wachiou BOURAIMA aka WassCodeur a web developer and software engineering student at African Leadership X || Msft Learn Student and DSN Ambassador.
